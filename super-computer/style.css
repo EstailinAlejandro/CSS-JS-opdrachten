@@ -1,0 +1,126 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+
+p {
+    font-size: 14pt;
+}
+
+#padding {
+    color: rgb(255,255,255);
+    padding: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30pt;
+    padding-top: 20px;
+    text-align: left;
+}
+
+.a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15pt;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.a:hover {
+    background-color: white;
+}
+
+#supercomputer {
+    display: none;
+    
+}
+
+.wiki {
+    font-weight: bold;
+    color: #00c9fd;
+    text-decoration: none;
+    
+}
+
+.wiki:hover {
+    font-size: 110%;
+    color: black;
+    
+}
+
+#p1{
+    color: #00c9fd;
+    background-color: #ffffff;
+    font-size: 12pt;
+}
+
+p {
+    padding: 20px;
+}
+
+img {
+    display: block;
+   
+}
+
+#titan {
+    width: 900px;
+    height: auto;
+}
+
+#Analyticalengine {  
+    float: right;
+    margin: 20px;
+
+}
+
+#wrapper{
+    width: 900px;
+    background-color: #ff3333;
+}
+
+nav {
+    width: 900px;
+    background-color: #cccccc;
+}
+
+h1 {
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25pt;
+    text-align: center;
+}
+
+header {
+    background-color: #00c9fd;
+    width: 900px;
+}
+
+
+article {
+    width: 900px;
+    background-color: #cccccc;
+    margin-top: 20px ;
+    margin-bottom: 20px;
+}
+
+
+#contact {
+    width: 900px;
+    background-color: #cccccc;
+}
+
+footer {
+    width: 900px;
+    height: 150px;
+    background-color: #00c9fd;
+   
+}
+
+#footer {
+    color: white;
+
+}
+
